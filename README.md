@@ -4,7 +4,7 @@ A comprehensive solution for archiving billing records from Azure Cosmos DB to A
 
 ## 🏗️ Architecture Overview
 
-![Billing Archival System Architecture](Screenshot%202025-07-04%20at%2011.09.10%20AM.png)
+![Billing Archival System Architecture](architecture-diagram.png)
 
 *Architecture diagram showing the complete billing archival system flow*
 
