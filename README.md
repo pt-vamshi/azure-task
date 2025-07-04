@@ -391,3 +391,9 @@ For issues and questions:
 1. Check the troubleshooting section
 2. Review the logs
 3. Open an issue in the repository 
+
+## 💬 Project Discussion & Context
+
+For the full design discussion, implementation steps, and Q&A related to this project, see the ChatGPT conversation:
+
+[View the ChatGPT conversation for this project](https://chatgpt.com/share/68676cf8-6e78-8002-b837-138482953c30) 
